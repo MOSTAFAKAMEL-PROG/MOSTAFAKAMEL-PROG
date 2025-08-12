@@ -1,7 +1,15 @@
 <h1 align="center">Hi there 👋, I'm Mostafa</h1>
 
 <p align="center">
+  <img src="https://avatars.githubusercontent.com/yourusername" width="150" style="border-radius:50%" alt="Profile Picture">
+</p>
+
+<p align="center">
   🎓 Chemical Engineering Student | 💡 Process Design & Simulation Enthusiast  
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
 ---
@@ -15,10 +23,10 @@
 ---
 
 ## 🛠 Skills & Tools
-- **Chemical Engineering**: Process Simulation, Heat & Mass Transfer  
-- **Software**: MATLAB, AutoCAD, Aspen Plus  
-- **Programming**: Python (basic), MATLAB  
-- **Soft Skills**: Problem Solving, Teamwork, Critical Thinking  
+- 🏭 **Chemical Engineering**: Process Simulation, Heat & Mass Transfer  
+- 💻 **Software**: MATLAB, AutoCAD, Aspen Plus  
+- 🐍 **Programming**: Python (basic), MATLAB  
+- 🤝 **Soft Skills**: Problem Solving, Teamwork, Critical Thinking  
 
 ---
 
@@ -38,4 +46,16 @@
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
 ⭐ *"Engineering is the art of turning ideas into reality."*
+
